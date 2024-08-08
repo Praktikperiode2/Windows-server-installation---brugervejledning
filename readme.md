@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="media/image1.png" width="312" height="232" />
+    <img src="media/image1.png" width="312" height="232" alt="Beskrivelse"/>
 
 
 </div>
@@ -12,7 +12,7 @@
 192.168.4.12
 
 <div style="text-align: center;">
-    <img src="media/image2.png" width="586" height="299" alt="Beskrivelse" />
+    <img src="media/image2.png" width="586" height="299" alt="Beskrivelse"/>
 </div>
 
 > Klik på "LAUNCH VSPHERE CLIENT (HTML 5)"
