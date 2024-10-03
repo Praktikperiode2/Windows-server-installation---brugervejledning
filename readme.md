@@ -4,18 +4,15 @@
 
 </div>
 
-> **Installation af Windows 2016/2019 server i en Vmware client**
-
-
-
-> indtast i en Chrome browser og klik på avanceret og Forsæt til
-192.168.4.12
+> **Installation af Windows 2016/2019 server i en Vmware client** <br>
+> Gå til domænet https://vcenter.praktikcenter.lan/ <br>
+> Tryk på: _Forsæt_, hvis forbindelsen ikke er privat.
 
 <div style="text-align: center;">
     <img src="media/image2.png" width="586" height="299" alt="Beskrivelse"/>
 </div>
 
-> Klik på "LAUNCH VSPHERE CLIENT (HTML 5)"
+> Klik på: _"LAUNCH VSPHERE CLIENT (HTML 5)"_
 
 <div style="text-align: center;">
     <img src="media/image3.png" width="476" height="342" alt="Beskrivelse" />
@@ -58,7 +55,8 @@ Start den virtuelle maskine:
     <img src="media/image9.png" width="199" height="105" alt="Beskrivelse" />
 </div>
 
-I console vinduet skal ISO filen med operativ systemet nu tilknyttes til et virtuelt Cdrom drev (højre klik på CD-ROM symbolet):
+I console vinduet skal ISO filen med operativ systemet nu tilknyttes til et virtuelt Cdrom drev (højre klik på CD-ROM symbolet):<br>
+Du finder ___programmet, du ønsker at installer___ i mappen: ___Denne pc___ - under kategorien  ___Netværksplaceringer___ lægger mappen ___Programmer___ 
 
 <div style="text-align: center;">
     <img src="media/image10.png" width="597" height="132" alt="Beskrivelse" />
@@ -146,7 +144,7 @@ Vælg "Internet Protocol Version 4" og derefter "Properties".
     <img src="media/image23.png" width="324" height="415" alt="Beskrivelse" />
 </div>
 
-Indtast nedenstående informationer: OBS IP Address, Subnet mask og gateway får du af instruktøren.
+Indtast nedenstående informationer: ___OBS IP Address, Subnet mask og gateway får du af instruktøren.___
 
 <div style="text-align: center;">
     <img src="media/image24.png" width="399" height="456" alt="Beskrivelse" />
